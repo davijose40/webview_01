@@ -4,7 +4,7 @@
   "description": "simple webviewer",
   "main": "main.js",
   "scripts": {
-    "start": "eletron ."
+    "start": "electron ."
   },
   "keywords": [],
   "author": "davijose40",
