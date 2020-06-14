@@ -1,5 +1,5 @@
 <!-- name the thing -->
-# Web view to float over screen
+# Web view window float over screen
 
 <!-- summary -->
 This is a simple example how use Sequelize to make queries, just backend, API using RESTfull
@@ -14,7 +14,7 @@ Before you begin, ensure you have met the following requirements:
 
 
 <!-- How to install the thing -->
-## To install **sqlnode**, follow these steps:
+## To install **webview_01**, follow these steps:
 `<git clone https://github.com/davijose40/webview_01.git>`, then in the folder ***webview_01*** run `<npm init>` and you are good to go!
 
 <!-- How to use the thing -->
